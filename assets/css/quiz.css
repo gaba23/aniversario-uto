@@ -1,0 +1,38 @@
+body {
+    background-image: url("Pandora_but_chibi_version._20210321161452.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffffff;
+}
+div {
+    margin: 5px 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 10px black;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul {
+    margin: 10px 5px;
+}
+
+ul li:before{
+    content: "•";
+    padding-right: 3px;
+}
+
+

@@ -1,0 +1,27 @@
+body {
+    background-image: url("Pandora_but_chibi_version._20210321161452.png"), url("eula-yelan-shenhe-dance.gif"), url("genshin-impact-yelan-yelan-genshin.gif");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: top, center, bottom;
+}
+
+div {
+    margin: 5px 5px;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 5px;
+}
+
+img {
+    width: 40%;
+    height: 300px;
+}
